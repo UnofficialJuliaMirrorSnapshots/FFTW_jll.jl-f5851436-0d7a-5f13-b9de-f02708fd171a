@@ -1,0 +1,113 @@
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "8fabf8e223292d22635619f4a070a03d2f920d10"
+libc = "glibc"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "736b91316d244545d30ec5d5e3d02d05057419cc06f036276d4db256d292e892"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-linux-gnu.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "3135d1251af70225893ed6dd5a9fedf4b1673624"
+os = "macos"
+
+    [[FFTW.download]]
+    sha256 = "b208c5b104e86b0f157b590c97668fb48e0857401b9540695cdc17e9b0fa121f"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-apple-darwin14.tar.gz"
+[[FFTW]]
+arch = "i686"
+git-tree-sha1 = "cb08d5ce77d1cf13718204ed76b6c47ebb10c7d1"
+os = "windows"
+
+    [[FFTW.download]]
+    sha256 = "f5f0082fb7fe9a9e3f7518f54c8ee02f5f19d310698a1975c7bfdcf9ddb01803"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-w64-mingw32.tar.gz"
+[[FFTW]]
+arch = "aarch64"
+git-tree-sha1 = "f99b1f17f825a068c57fe1cfaeb06a9ca97eec04"
+libc = "glibc"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "59425240fd1d8c3c5cb6d3f0b5382b50c7ffda5c4a68b9d965651a3a82158331"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.aarch64-linux-gnu.tar.gz"
+[[FFTW]]
+arch = "i686"
+git-tree-sha1 = "46c23d36afa10ce48fde5ddab89e86713c470f08"
+libc = "musl"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "d4bcbcfa612ba6fd6c5a821f69941b6b07d854e31cac7cdbe128c5d7d4097fae"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-linux-musl.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "825e7c2a6e2d99235a0cc83d51dd265bddc11c87"
+os = "windows"
+
+    [[FFTW.download]]
+    sha256 = "1868ebb4d1fbe8eafca5303b392151dc3b8cd2ee6f3c0d115017fe9f06f8a2a2"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-w64-mingw32.tar.gz"
+[[FFTW]]
+arch = "powerpc64le"
+git-tree-sha1 = "9d98f9df0213f11ae059f3440ed8674f1a7642fe"
+libc = "glibc"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "8a492a5223a630408c639cfdfe1cec0b593fe8bd86f97ab7b3cc9c9a051af714"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.powerpc64le-linux-gnu.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "ea905953d16c369c2d77f2413cf80f651ab22460"
+os = "freebsd"
+
+    [[FFTW.download]]
+    sha256 = "00cf34b31440c40a74cb1cc893bee3e1617c839b30ce97c97309e3bb73f6d10b"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-unknown-freebsd11.1.tar.gz"
+[[FFTW]]
+arch = "armv7l"
+git-tree-sha1 = "88c4448c0c2d1443a57313835b23d6686e921b90"
+libc = "musl"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "fbe76828a9ba6cb3d2de674c5f88e076a8f4a67947cebaf6cf393e76ea508d48"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.arm-linux-musleabihf.tar.gz"
+[[FFTW]]
+arch = "aarch64"
+git-tree-sha1 = "104e38c1c6b41bf48f4e2b8197a1df5ac532f8a8"
+libc = "musl"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "876ac2d17cd208bd25445aa86a721ebee96aa3fc2f17263b9344d36be42bd09c"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.aarch64-linux-musl.tar.gz"
+[[FFTW]]
+arch = "i686"
+git-tree-sha1 = "f770a4a626507e2c42f71b82846f4989d411be99"
+libc = "glibc"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "f7ff8be59f233a7dc7bfb3266cb3616714261dd4add15bd5ad8a93f0ffa464f1"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.i686-linux-gnu.tar.gz"
+[[FFTW]]
+arch = "x86_64"
+git-tree-sha1 = "ac230af9a5e8a6024a78fe4c83567ce2cf3f7bdb"
+libc = "musl"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "2ce4163c8e9eb8da49f04311c99c516727c25bc59ea2c32a72fc934b6891b947"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.x86_64-linux-musl.tar.gz"
+[[FFTW]]
+arch = "armv7l"
+git-tree-sha1 = "b0e2a975e42e2268d1e9f336f818bc68509d504b"
+libc = "glibc"
+os = "linux"
+
+    [[FFTW.download]]
+    sha256 = "8d3083e8679bac60f8cce05f017a5ab4cf6b94af1443d356784f31c04b91c8c7"
+    url = "https://github.com/JuliaBinaryWrappers/FFTW_jll.jl/releases/download/FFTW-v3.3.9+1/FFTW.v3.3.9.arm-linux-gnueabihf.tar.gz"
